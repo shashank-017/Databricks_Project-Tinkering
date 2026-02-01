@@ -1,0 +1,5 @@
+This section I will add more details, but as for now the planning for architecture of this fun-project is to:
+
+1. Use open source streaming data platform - NOT KAFKA, its not allowed to be attached with Databricks with Free Edition.
+2. Use Databricks Notebook to create ETL process, as its free edition and we have a very limited tools to include here
+3. Future plan to scale this Project is by integrating Airflow, as far as I know, Airflow is free, open-source, and may be I can include it for orchestration purposes - Lets see, how far I can go with this fun-project
